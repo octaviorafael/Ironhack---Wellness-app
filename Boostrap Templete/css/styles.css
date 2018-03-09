@@ -1,0 +1,125 @@
+/* this was .header */
+.jumbotron {
+  /* 30vh - 30% of the view port height */
+  padding: 5vh 15%;
+  background-color: #cccccc;
+  /* image by NeuPaddy */
+  background-image: url("../images/bg-header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+h1{
+      margin: 0.5rem 0 5rem 0;
+}
+
+.bg-nav{
+  background-color:purple;
+}
+
+.navbar-brand{
+  color:#B09A51;
+}
+
+.row {
+  margin: 5rem 0rem;
+}
+
+.btn-purple {
+  background-color: purple;
+  color: white;
+}
+
+.navbar-toggler{
+  border: 1px solid white;
+}
+
+.nav-item a{
+  color: white;
+  font-size:1.6rem;
+}
+
+
+.btn-cta{
+  font-size: 2rem;
+}
+
+.testimonials{
+  background-color: #cccccc;
+  padding: 5rem 0;
+
+}
+
+.img-testimonial .img-fluid {
+  border-radius: 1rem;
+}
+
+.text-testimonial{
+  padding: 3rem 0;
+}
+
+blockquote p {
+   font-size: 1.5rem;
+   color: #222222;
+   font-family: 'Lato', sans-serif;
+
+}
+
+.blockquote-footer {
+  font-size: 1.2rem;
+  color: orange;
+  font-family: 'Lato', sans-serif;
+}
+
+
+
+
+blockquote footer cite{
+  font-size: 1rem;
+  color: red;
+  font-family: 'Lato', sans-serif;
+  font-style: italic;
+  font-weight:100;
+
+}
+
+input {
+  margin-bottom: 1.5rem;
+}
+
+.btn-fernando {
+  background-color: blue;
+  color: white;
+  padding: .5rem 6rem;
+  font-size: 1.8rem;
+  border-radius: 1rem;
+}
+
+
+
+.display-1 {
+  color: #FFFFFF;
+  text-shadow: 1px 1px 3px #000000;
+}
+
+.display-4 {
+  color: #c1cd34;
+  text-shadow: 1px 1px 3px #000000;
+}
+
+
+.footer{
+  background-color:#222222;
+  padding: 1rem 0rem;
+}
+
+.fab {
+    font-size: 25px;
+    border: 3px solid #ffffff;
+    padding: 6.5px 2.5px;
+    width: 44px;
+    height: 44px;
+    text-align: center;
+    color: white;
+}

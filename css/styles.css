@@ -1,0 +1,92 @@
+.header {
+  /* 10 % of the view port height */
+  padding: 10vh 15%;
+  background-color: blue;
+  background-image: url("../images/server.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.row{
+  margin: 5rem 0px;s
+}
+
+.display-1{
+  color: #ffffff;
+  text-shadow: 1px 1px 3px;
+}
+
+.display-4{
+  color: #c1cd34;
+  text-shadow: 1px 1px 3px #000000;
+}
+.btn-cta{
+  font-size: 40px;
+}
+.footer{
+  background-color: #222222;
+}
+.fab{
+  font-size: 2 rem;
+  color: #ffffff;
+  border: 3px solid #ffffff;
+  padding: 10px;
+}
+.testimonials{
+  background-color: #cccccc;
+  padding: 5rem 0;
+}
+.h1{
+  margin: 0.5rem 0 2rem 0;
+
+}
+
+.img-testimonial img{
+  border-radius: 1rem;
+}
+
+.text-testimonial{
+  padding:3rem 0;
+}
+
+blockquote p{
+  font-size: 1.5rem;
+  color: #222222;
+  font-family: 'Lato', sans-serif;
+}
+
+blockquote footer{
+font-size: 1.2rem;
+color:orange;
+font-family: 'Lato', sans-serif;
+}
+
+blockquote footer cite{
+font-size: 1rem;
+color: red;
+font-family: 'Lato'', sans-serif;
+}
+
+.btn-octavio{
+  background-color: blue;
+  color: white;
+  padding:.5rem 6rem;
+  font-size: 1.8rem;
+}
+.bg-nav{
+  background-color: purple;
+}
+
+.navbar-brand{
+  color: orange;
+  font-family: : comfortaa, sans-serif;
+}
+.navbar-toggler{
+  border:1px solid:white;
+  font-size: 2rem;
+}
+
+.nav-item a{
+  color: white;
+  font-size: :2rem;
+}
